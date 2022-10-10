@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head 7 iacta |tail -1 
+ls -lt | head 7 |tail -1 iacta 

@@ -1,0 +1,2 @@
+#!/bin/bash
+echi $PATH | tr ':' '\n' | wc -1
